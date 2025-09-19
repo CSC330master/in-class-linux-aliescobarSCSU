@@ -1,0 +1,16 @@
+1. Linux Commands (light orange)
+
+- cd : change directory
+- pwd : print working directory (shows where I am)
+- ls : list of files in the current directory
+- pico : creates/edits a file
+
+
+2. Git commands (yellow)
+
+- git clone : copy a repository from GitHub to computer
+- git status : show the current repo status (such as changed files, branch info)
+- git add : stage changes to be committed
+- git commit -m "message" : save changes with a description
+- git push : send my commits to GitHub
+- git config : set username/email
